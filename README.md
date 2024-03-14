@@ -1,0 +1,1 @@
+# Image captioning using MiniGPT-4 and Vicuna pre-trained model
