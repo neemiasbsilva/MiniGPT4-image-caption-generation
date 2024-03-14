@@ -1,4 +1,4 @@
-# Image captioning using MiniGPT-4 and Vicuna pre-trained model
+# Image captioning generation using MiniGPT-4 and Vicuna pre-trained model
 
 
 ## Description
