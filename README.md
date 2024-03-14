@@ -50,7 +50,6 @@ In the shell file (`run.sh`) you have to specify:
 * Download the [MiniGPT-4 Checkpoint Model](https://drive.google.com/file/d/1a4zLvaiDBr-36pasffmgpvH5P7CKmpze/view?usp=share_link)
 
 * Set the LLM  path `eval_configs/minigpt4_eval.yaml` in Line 8.
-
     ```
     ckpt: pretrained_minigpt4.pth
     ```
